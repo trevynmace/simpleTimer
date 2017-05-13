@@ -1,0 +1,9 @@
+body {background-color:#777;}
+
+#timedate {
+    font: small-caps bold 43px/150% Arial, Helvetica, sans-serif;
+    text-align:left;
+    width: 100%;
+    color:#000;
+    /*padding: 20px;*/
+}
